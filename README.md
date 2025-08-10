@@ -15,7 +15,7 @@
  3. CPU 아키텍처 (CPU Architecture)
 Single-Cycle 데이터패스 구조를 따르며, 하나의 명령어는 한 클럭 사이클에 모든 실행 단계를 마칩니다. 전체 데이터패스 구조는 아래와 같습니다.
 
-![Datapath](doc/CPU_Architecture)  
+![Datapath](doc/CPU_Architecture.jpg)  
 
 
 
