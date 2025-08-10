@@ -47,6 +47,6 @@ Single-Cycle 데이터패스 구조를 따르며, 하나의 명령어는 한 클
 ---
 
 ### 6. FPGA 구현 및 실제 동작
-설계된 CPU를 Arty A7 보드에 구현하여 실제 하드웨어 동작을 확인했습니다. CPU가 `program.mem`의 명령어를 순차적으로 실행하며 연산한 결과(`WriteBack_Data`)의 하위 4비트가 보드의 LED를 통해 실시간으로 출력됩니다.
+설계된 CPU를 Arty A7 보드에 구현하여 실제 하드웨어 동작을 확인했습니다. CPU가 `program.coe`의 명령어를 순차적으로 실행하며 연산한 결과(`WriteBack_Data`)의 하위 4비트가 보드의 LED를 통해 실시간으로 출력됩니다.
 
 **[FPGA 동작 영상]** ![FPGA Demo](doc/FPGA_LED.gif)  
