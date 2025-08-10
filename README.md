@@ -1,7 +1,7 @@
 # Single-Cycle RISC-V CPU 설계 및 FPGA 구현
 
 1. 프로젝트 개요 (Overview)
-이 프로젝트는 Verilog HDL을 사용하여 RISC-V 32I의 기본 명령어 세트(`add`, `addi`, `sw`, `lw`, `beq`)를 지원하는 32비트 Single-Cycle CPU를 설계하고, 시뮬레이션 및 FPGA 보드를 통해 동작을 검증한 결과물입니다. 컴퓨터 구조의 핵심 원리를 실제 하드웨어로 구현하는 경험을 통해 깊이 있는 학습을 목표로 했습니다.
+이 프로젝트는 Verilog HDL을 사용하여 RISC-V 32I의 기본 명령어 세트(`add`, `addi`, `sw`, `lw`, `beq`)를 지원하는 32비트 Single-Cycle CPU를 설계하고, 시뮬레이션 및 FPGA 보드를 통해 동작을 검증한 결과물입니다. 컴퓨터 구조의 핵심 원리를 실제 하드웨어로 구현하는 경험을 목표로 했습니다.
 
 ---
 
