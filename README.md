@@ -7,7 +7,7 @@
 
  2. 개발 환경 (Development Environment)
 * **설계 언어**: Verilog HDL
-* **시뮬레이션/합성 툴**: Xilinx Vivado 2025.1
+* **시뮬레이션/합성 툴**: Vivado 2025.1
 * **검증용 FPGA 보드**: Digilent Arty A7-100T
 
 ---
