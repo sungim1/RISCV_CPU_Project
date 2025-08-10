@@ -39,7 +39,7 @@ Single-Cycle 데이터패스 구조를 따르며, 하나의 명령어는 한 클
 ---
 
 ### 5. 시뮬레이션 및 검증 (Simulation & Verification)
-테스트벤치를 통해 CPU의 논리적 동작을 검증했습니다. `lw`, `sw`, `add`, `addi`를 포함한 테스트 프로그램이 레지스터와 메모리에서 올바르게 실행되는 것을 아래 Waveform을 통해 확인했습니다.
+테스트벤치를 통해 CPU의 논리적 동작을 검증했습니다. `lw`, `sw`, `add`, `addi`를 포함한 테스트벤치 파일이 레지스터와 메모리에서 올바르게 실행되는 것을 아래 Waveform을 통해 확인했습니다.
 
 **[시뮬레이션 Waveform]** ![Waveform](doc/Single_CPU SIM.PNG)  
 
